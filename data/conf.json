@@ -15583,6 +15583,44 @@
       ]
     },
     {
+      "series": "WITS",
+      "discipline": "MIS",
+      "metadata": {
+        "series_full_title": "Template",
+        "main_discipline": [
+          "MIS & CIS"
+        ],
+        "other_discipline": [
+          "OM"
+        ],
+        "parent_org": "",
+        "website": "",
+        "proceedings": "",
+        "second_track_name": "",
+        "note": ""
+      },
+      "yearly_data": [
+        {
+          "year": 2024,
+          "ordinal": "12th",
+          "location": "Online, Online",
+          "main_track": {
+            "num_acc": 10,
+            "num_sub": 20
+          }
+        },
+        {
+          "year": 2023,
+          "ordinal": "11th",
+          "location": "Online, Online",
+          "main_track": {
+            "num_acc": 10,
+            "num_sub": 10
+          }
+        }
+      ]
+    },
+    {
       "series": "Template",
       "discipline": "",
       "metadata": {
